@@ -79,6 +79,9 @@ DOMAIN-SUFFIX,api.dr-tohid-akbari.com
 DOMAIN-SUFFIX,pages.proton.cloudns.ch
 DOMAIN-SUFFIX,1.jerek.cloudns.ch
 DOMAIN-SUFFIX,xn--5usp3szwdw3htsk95gww7a.us.kg
+DOMAIN-SUFFIX,sub.soscom.ggff.net
+DOMAIN-SUFFIX,chapteriii.dynv6.net
+DOMAIN-SUFFIX,zsz.chapteriii.dynv6.net
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
