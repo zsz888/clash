@@ -111,6 +111,9 @@ DOMAIN-SUFFIX,bvjoe.plvhoueupadvddsqt.work
 DOMAIN-SUFFIX,222666c.com
 DOMAIN-SUFFIX,macaujc.org
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,github.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
